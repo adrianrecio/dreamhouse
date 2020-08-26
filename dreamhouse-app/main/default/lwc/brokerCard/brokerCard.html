@@ -1,0 +1,34 @@
+<template>
+    <lightning-card title="Broker Details">
+        <template if:true={property.data}>
+
+            <lightning-button-icon
+                icon-name="utility:expand_alt"
+                slot="actions"
+                onclick={handleNavigateToRecord}
+            ></lightning-button-icon>
+            <div class="slds-var-m-around_medium">
+                <lightning-layout>
+                    <lightning-layout-item size="3">
+                        <img src={brokerImage}></img>
+                    </lightning-layout-item>
+                    <lightning-layout-item size="9">
+                        
+                        <lightning-record-form
+                            object-api-name="Broker__c"
+                            record-id={brokerId}
+                            fields={brokerFields}
+                            columns="1"
+                        ></lightning-record-form>
+                    </lightning-layout-item>
+                </lightning-layout>
+            </div>
+        </template>
+        <template if:true={property.error}>
+            <c-error-panel
+                friendly-message="Error retrieving data"
+                errors={property.error}
+            ></c-error-panel>
+        </template>
+    </lightning-card>
+</template>
