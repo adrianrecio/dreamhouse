@@ -17,7 +17,7 @@
         }
     ],
     "namespace": "",
-    "sourceApiVersion": "48.0",
+    "sourceApiVersion": "49.0",
     "packageAliases": {
         "dxatscale-base":"04t6F000001ZL7yQAG",
         "LWCC":"04t5I000001ecttQAA",
