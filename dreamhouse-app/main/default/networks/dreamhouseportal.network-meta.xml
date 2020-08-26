@@ -36,7 +36,9 @@
         <loginPageOverrideSetting>Designer</loginPageOverrideSetting>
         <selfRegProfilePageOverrideSetting>Designer</selfRegProfilePageOverrideSetting>
     </networkPageOverrides>
+    <!--
     <picassoSite>dreamhouseportal1</picassoSite>
+    -->
     <selfRegistration>false</selfRegistration>
     <sendWelcomeEmail>true</sendWelcomeEmail>
     <site>dreamhouseportal</site>

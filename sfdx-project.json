@@ -12,15 +12,35 @@
                 },
                 {
                     "package": "flowmagic"
+                },
+                {
+                    "package": "dreamhouse-data-model",
+                    "versionNumber": "0.1.0.LATEST"
                 }
-            ]
+            ],
+            "package": "dreamhouse-app",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT"
+        },
+        {
+            "path": "dreamhouse-data-model",
+            "package": "dreamhouse-data-model",
+            "versionName": "ver 0.1",
+            "versionNumber": "0.1.0.NEXT",
+            "default": false
         }
     ],
     "namespace": "",
     "sourceApiVersion": "49.0",
     "packageAliases": {
-        "dxatscale-base":"04t6F000001ZL7yQAG",
-        "LWCC":"04t5I000001ecttQAA",
-        "flowmagic": "04t6F000001D6LOQA0"
+        "dxatscale-base": "04t6F000001ZL7yQAG",
+        "LWCC": "04t5I000001ecttQAA",
+        "flowmagic": "04t6F000001D6LOQA0",
+        "dreamhouse-app": "0Ho2w000000fxvaCAA",
+        "dreamhouse-app@0.1.0-1": "04t2w0000084FsRAAU",
+        "dreamhouse-data-model": "0Ho2w000000fxvfCAA",
+        "dreamhouse-data-model@0.1.0-1": "04t2w0000084G4uAAE",
+        "dreamhouse-data-model@0.1.0-2": "04t2w0000084HXpAAM",
+        "dreamhouse-app@0.1.0-2": "04t2w0000084Hc2AAE"
     }
 }
