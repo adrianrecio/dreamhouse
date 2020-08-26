@@ -1,0 +1,26 @@
+<template>
+    <lightning-card title="Book Inspection" icon-name="standard:job_position">
+        <div slot="actions">
+            <lightning-button-icon icon-name="utility:add" onclick={addInspection} disabled={canAdd}></lightning-button-icon>
+        </div>
+        <template if:true={canAdd}>
+            <lightning-record-edit-form object-api-name={objectApiName} onsuccess={handleSuccess} onsubmit={handleSubmit}>
+                <lightning-messages></lightning-messages>
+                <div class="slds-var-m-around_medium">
+                    <div class="slds-col slds-size_1-of-1">
+                        <lightning-input-field required field-name="Property__c" value={recordId} disabled></lightning-input-field>
+                        <lightning-input-field required field-name="Customer__c" ></lightning-input-field>
+                        <lightning-input-field required field-name="Inspection_Date__c"></lightning-input-field>
+                        <lightning-input type="time" name="timeSlot" label="Time Slot" required
+                        min="09:00:00.000Z" max="17:30:00.000Z" onchange={handleTimeChange}></lightning-input>
+                    </div>
+                </div>
+                
+                <span class="slds-align_absolute-center">
+                    <lightning-button label="Confirm" type="submit" variant="brand"></lightning-button> &nbsp;
+                    <lightning-button label="Cancel" onclick={handleCancel}></lightning-button>
+                </span>
+            </lightning-record-edit-form>
+        </template>
+    </lightning-card>
+</template>

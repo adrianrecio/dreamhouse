@@ -1,0 +1,13 @@
+Hello {!Contact.Name} ,
+
+Your Inspection is Booked successfully for {!Property__c.Name} on {!Inspection__c.Inspection_Date__c} : {!Inspection__c.Time_Slot__c} .
+
+For more details visit the Dreamhouse portal : <community url>
+
+Your Broker Details
+Name : {!Broker__c.Name}
+Email : {!Broker__c.Email__c}
+Mobile : {!Broker__c.Mobile_Phone__c}
+
+Thanks! 
+DreamHouse

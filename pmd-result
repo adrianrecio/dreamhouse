@@ -1,0 +1,200 @@
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordController.cls:5:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordController.cls:6:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordController.cls:7:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordController.cls:9:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordController.cls:13:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordController.cls:13:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordControllerTest.cls:5:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ChangePasswordControllerTest.cls:12:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLandingController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLandingController.cls:7:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLandingController.cls:11:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLandingController.cls:11:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLandingControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLandingControllerTest.cls:5:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLandingControllerTest.cls:13:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginController.cls:4:	Avoid using global modifier
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginController.cls:6:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginController.cls:6:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginController.cls:9:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginControllerTest.cls:4:	Avoid using global modifier
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginControllerTest.cls:6:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesLoginControllerTest.cls:8:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegConfirmController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegConfirmController.cls:6:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegConfirmController.cls:6:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegConfirmControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegConfirmControllerTest.cls:5:	Apex unit tests should System.assert() or assertEquals() or assertNotEquals()
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegConfirmControllerTest.cls:5:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:6:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:7:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:8:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:9:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:10:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:11:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:13:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegController.cls:24:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegControllerTest.cls:6:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegControllerTest.cls:14:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\CommunitiesSelfRegControllerTest.cls:18:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ContactController.cls:1:	Apex classes should declare a sharing model if DML or SOQL/SOSL is used
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ContactController.cls:1:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ContactController.cls:3:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ContactController.cls:5:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ContactController.cls:10:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ContactController.cls:11:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordController.cls:5:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordController.cls:7:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordController.cls:7:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordController.cls:9:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordControllerTest.cls:5:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\ForgotPasswordControllerTest.cls:10:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordController.cls:1:	Avoid using global modifier
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordController.cls:1:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordController.cls:3:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordController.cls:3:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordController.cls:8:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordController.cls:11:	Apex classes should safely redirect to a known location
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordController.cls:24:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:2:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:7:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:8:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:9:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:15:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:16:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:21:	The test method name 'LightningForgotPasswordControllerInstantiation' doesn't match '[a-z][a-zA-Z0-9_]*'
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningForgotPasswordControllerTest.cls:23:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:1:	Avoid using global modifier
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:1:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:3:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:3:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:8:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:20:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:26:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:32:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:41:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormController.cls:54:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:2:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:6:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:10:	The test method name 'LightningLoginFormControllerInstantiation' doesn't match '[a-z][a-zA-Z0-9_]*'
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:12:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:17:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:22:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:27:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningLoginFormControllerTest.cls:33:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:1:	Apex classes should declare a sharing model if DML or SOQL/SOSL is used
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:1:	Avoid using global modifier
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:1:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:1:	The class 'LightningSelfRegisterController' has a Standard Cyclomatic Complexity of 4 (Highest = 15).
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:3:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:3:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:27:	Avoid long parameter lists.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:27:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:27:	The method 'selfRegister' has a Standard Cyclomatic Complexity of 15.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:27:	The method 'selfRegister()' has an NCSS line count of 68
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:27:	The method 'selfRegister(String,String,String,String,String,String,String,String,String,Boolean)' has a cyclomatic complexity of 20.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:86:	Deeply nested if..then statements are hard to read
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:91:	Apex classes should safely redirect to a known location
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:107:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterController.cls:126:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:2:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:7:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:8:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:9:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:10:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:15:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:22:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:23:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:24:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:25:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:26:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:27:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:35:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:47:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:52:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:57:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:70:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:74:	The test method name 'LightningSelfRegisterControllerInstantiation' doesn't match '[a-z][a-zA-Z0-9_]*'
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\LightningSelfRegisterControllerTest.cls:76:	'System.assertNotEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:5:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:10:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:14:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:15:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:25:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:29:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:33:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:35:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:42:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:46:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageController.cls:48:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:5:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:7:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:18:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:20:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:22:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:27:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:30:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:40:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:43:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:47:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\MyProfilePageControllerTest.cls:52:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PagedResult.cls:1:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PagedResult.cls:3:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PagedResult.cls:6:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PagedResult.cls:9:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PagedResult.cls:12:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PropertyController.cls:1:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PropertyController.cls:3:	Avoid long parameter lists.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PropertyController.cls:3:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PropertyController.cls:16:	Avoid long parameter lists.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PropertyController.cls:16:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\PropertyController.cls:46:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:1:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:3:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:15:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:25:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:29:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:40:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:44:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SampleDataController.cls:54:	Validate CRUD permission before SOQL/DML operation
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginController.cls:4:	Avoid using global modifier
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginController.cls:5:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginController.cls:6:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginController.cls:8:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginController.cls:13:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginController.cls:13:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginControllerTest.cls:4:	Avoid using global modifier
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginControllerTest.cls:5:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteLoginControllerTest.cls:11:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:7:	Hardcoding Ids is bound to break when changing environments.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:7:	Only variables that are final should contain underscores (except for underscores in standard prefix/suffix), 'PORTAL_ACCOUNT_ID' is not final.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:7:	Variables should start with a lowercase character, 'PORTAL_ACCOUNT_ID' starts with uppercase character.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:9:	Avoid empty block statements.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:9:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:12:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:13:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:14:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:15:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:16:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterController.cls:22:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterControllerTest.cls:4:	Missing ApexDoc @description
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterControllerTest.cls:5:	Apex unit tests should not use @isTest(seeAllData = true)
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterControllerTest.cls:11:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\SiteRegisterControllerTest.cls:15:	'System.assert' should have 2 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\TestPropertyController.cls:33:	Missing ApexDoc comment
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\TestPropertyController.cls:59:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\TestPropertyController.cls:76:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\TestPropertyController.cls:92:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\TestPropertyController.cls:127:	'System.assertEquals' should have 3 parameters.
+C:\Users\adrian.a.recio\Desktop\GIT\dxatscale101-source\dreamhouse-app\main\default\classes\TestPropertyController.cls:128:	'System.assertEquals' should have 3 parameters.

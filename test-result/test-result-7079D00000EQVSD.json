@@ -1,0 +1,3666 @@
+{
+    "summary": {
+        "outcome": "Passed",
+        "testsRan": 32,
+        "passing": 32,
+        "failing": 0,
+        "skipped": 0,
+        "passRate": "100%",
+        "failRate": "0%",
+        "testStartTime": "Aug 26, 2020 3:58 PM",
+        "testExecutionTime": "1765 ms",
+        "testTotalTime": "1765 ms",
+        "commandTime": "12274 ms",
+        "hostname": "https://agility-flow-8136-dev-ed.cs76.my.salesforce.com/",
+        "orgId": "00D9D0000000knfUAA",
+        "username": "test-kirkobdpgzf9@example.com",
+        "testRunId": "7079D00000EQVSD",
+        "userId": "0059D000001ZDavQAG",
+        "testRunCoverage": "81%",
+        "orgWideCoverage": "81%"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D0000023zluUAA"
+            },
+            "Id": "07M9D0000023zluUAA",
+            "QueueItemId": "7099D000000X1k2QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testChangePasswordController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmZQAQ"
+                },
+                "Id": "01p9D0000018bmZQAQ",
+                "Name": "ChangePasswordControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 10,
+            "FullName": "ChangePasswordControllerTest.testChangePasswordController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240ILUAY"
+            },
+            "Id": "07M9D00000240ILUAY",
+            "QueueItemId": "7099D000000X1jxQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testCommunitiesLandingController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmhQAA"
+                },
+                "Id": "01p9D0000018bmhQAA",
+                "Name": "CommunitiesLandingControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 14,
+            "FullName": "CommunitiesLandingControllerTest.testCommunitiesLandingController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IaUAI"
+            },
+            "Id": "07M9D00000240IaUAI",
+            "QueueItemId": "7099D000000X1k0QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testCommunitiesLoginController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmfQAA"
+                },
+                "Id": "01p9D0000018bmfQAA",
+                "Name": "CommunitiesLoginControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 10,
+            "FullName": "CommunitiesLoginControllerTest.testCommunitiesLoginController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IVUAY"
+            },
+            "Id": "07M9D00000240IVUAY",
+            "QueueItemId": "7099D000000X1jyQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testCommunitiesSelfRegConfirmController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmlQAA"
+                },
+                "Id": "01p9D0000018bmlQAA",
+                "Name": "CommunitiesSelfRegConfirmControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 9,
+            "FullName": "CommunitiesSelfRegConfirmControllerTest.testCommunitiesSelfRegConfirmController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240GuUAI"
+            },
+            "Id": "07M9D00000240GuUAI",
+            "QueueItemId": "7099D000000X1jwQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testCommunitiesSelfRegController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmjQAA"
+                },
+                "Id": "01p9D0000018bmjQAA",
+                "Name": "CommunitiesSelfRegControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 16,
+            "FullName": "CommunitiesSelfRegControllerTest.testCommunitiesSelfRegController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IuUAI"
+            },
+            "Id": "07M9D00000240IuUAI",
+            "QueueItemId": "7099D000000X1jrQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "validate_ContactController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018buZQAQ"
+                },
+                "Id": "01p9D0000018buZQAQ",
+                "Name": "ContactControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 406,
+            "FullName": "ContactControllerTest.validate_ContactController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IfUAI"
+            },
+            "Id": "07M9D00000240IfUAI",
+            "QueueItemId": "7099D000000X1jzQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testForgotPasswordController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmbQAA"
+                },
+                "Id": "01p9D0000018bmbQAA",
+                "Name": "ForgotPasswordControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 9,
+            "FullName": "ForgotPasswordControllerTest.testForgotPasswordController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IzUAI"
+            },
+            "Id": "07M9D00000240IzUAI",
+            "QueueItemId": "7099D000000X1jtQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "LightningForgotPasswordControllerInstantiation",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmqQAA"
+                },
+                "Id": "01p9D0000018bmqQAA",
+                "Name": "LightningForgotPasswordControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 9,
+            "FullName": "LightningForgotPasswordControllerTest.LightningForgotPasswordControllerInstantiation"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J0UAI"
+            },
+            "Id": "07M9D00000240J0UAI",
+            "QueueItemId": "7099D000000X1jtQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testLightningForgotPasswordControllerInvalidUserName",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmqQAA"
+                },
+                "Id": "01p9D0000018bmqQAA",
+                "Name": "LightningForgotPasswordControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 5,
+            "FullName": "LightningForgotPasswordControllerTest.testLightningForgotPasswordControllerInvalidUserName"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J1UAI"
+            },
+            "Id": "07M9D00000240J1UAI",
+            "QueueItemId": "7099D000000X1jtQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testLightningForgotPasswordControllerWithNullCheckEmailRef",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmqQAA"
+                },
+                "Id": "01p9D0000018bmqQAA",
+                "Name": "LightningForgotPasswordControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 5,
+            "FullName": "LightningForgotPasswordControllerTest.testLightningForgotPasswordControllerWithNullCheckEmailRef"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J4UAI"
+            },
+            "Id": "07M9D00000240J4UAI",
+            "QueueItemId": "7099D000000X1juQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "LightningLoginFormControllerInstantiation",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                },
+                "Id": "01p9D0000018bmpQAA",
+                "Name": "LightningLoginFormControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 7,
+            "FullName": "LightningLoginFormControllerTest.LightningLoginFormControllerInstantiation"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J5UAI"
+            },
+            "Id": "07M9D00000240J5UAI",
+            "QueueItemId": "7099D000000X1juQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testAuthConfig",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                },
+                "Id": "01p9D0000018bmpQAA",
+                "Name": "LightningLoginFormControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 9,
+            "FullName": "LightningLoginFormControllerTest.testAuthConfig"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J6UAI"
+            },
+            "Id": "07M9D00000240J6UAI",
+            "QueueItemId": "7099D000000X1juQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetSelfRegistrationURL",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                },
+                "Id": "01p9D0000018bmpQAA",
+                "Name": "LightningLoginFormControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 7,
+            "FullName": "LightningLoginFormControllerTest.testGetSelfRegistrationURL"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J7UAI"
+            },
+            "Id": "07M9D00000240J7UAI",
+            "QueueItemId": "7099D000000X1juQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testIsSelfRegistrationEnabled",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                },
+                "Id": "01p9D0000018bmpQAA",
+                "Name": "LightningLoginFormControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 6,
+            "FullName": "LightningLoginFormControllerTest.testIsSelfRegistrationEnabled"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J8UAI"
+            },
+            "Id": "07M9D00000240J8UAI",
+            "QueueItemId": "7099D000000X1juQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testIsUsernamePasswordEnabled",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                },
+                "Id": "01p9D0000018bmpQAA",
+                "Name": "LightningLoginFormControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 14,
+            "FullName": "LightningLoginFormControllerTest.testIsUsernamePasswordEnabled"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JJUAY"
+            },
+            "Id": "07M9D00000240JJUAY",
+            "QueueItemId": "7099D000000X1juQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testLoginWithInvalidCredentials",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                },
+                "Id": "01p9D0000018bmpQAA",
+                "Name": "LightningLoginFormControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 5,
+            "FullName": "LightningLoginFormControllerTest.testLoginWithInvalidCredentials"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IQUAY"
+            },
+            "Id": "07M9D00000240IQUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "LightningSelfRegisterControllerInstantiation",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 11,
+            "FullName": "LightningSelfRegisterControllerTest.LightningSelfRegisterControllerInstantiation"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IRUAY"
+            },
+            "Id": "07M9D00000240IRUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetExtraFieldsInSelfRegistration",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 17,
+            "FullName": "LightningSelfRegisterControllerTest.testGetExtraFieldsInSelfRegistration"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240ISUAY"
+            },
+            "Id": "07M9D00000240ISUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetNonEmptyExtraFields",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 6,
+            "FullName": "LightningSelfRegisterControllerTest.testGetNonEmptyExtraFields"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240ITUAY"
+            },
+            "Id": "07M9D00000240ITUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetNullExtraFields",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 5,
+            "FullName": "LightningSelfRegisterControllerTest.testGetNullExtraFields"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IUUAY"
+            },
+            "Id": "07M9D00000240IUUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testIsValidPassword",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 4,
+            "FullName": "LightningSelfRegisterControllerTest.testIsValidPassword"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JEUAY"
+            },
+            "Id": "07M9D00000240JEUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testSelfRegisterWithCreatedAccount",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 114,
+            "FullName": "LightningSelfRegisterControllerTest.testSelfRegisterWithCreatedAccount"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JFUAY"
+            },
+            "Id": "07M9D00000240JFUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testSelfRegisterWithProperCredentials",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 5,
+            "FullName": "LightningSelfRegisterControllerTest.testSelfRegisterWithProperCredentials"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JGUAY"
+            },
+            "Id": "07M9D00000240JGUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testSelfRegistration",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 6,
+            "FullName": "LightningSelfRegisterControllerTest.testSelfRegistration"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JHUAY"
+            },
+            "Id": "07M9D00000240JHUAY",
+            "QueueItemId": "7099D000000X1jsQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testSiteAsContainerEnabled",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                },
+                "Id": "01p9D0000018bmrQAA",
+                "Name": "LightningSelfRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 11,
+            "FullName": "LightningSelfRegisterControllerTest.testSiteAsContainerEnabled"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IpUAI"
+            },
+            "Id": "07M9D00000240IpUAI",
+            "QueueItemId": "7099D000000X1k1QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testSave",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmdQAA"
+                },
+                "Id": "01p9D0000018bmdQAA",
+                "Name": "MyProfilePageControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 146,
+            "FullName": "MyProfilePageControllerTest.testSave"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240J9UAI"
+            },
+            "Id": "07M9D00000240J9UAI",
+            "QueueItemId": "7099D000000X1jvQAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testSiteLoginController",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmVQAQ"
+                },
+                "Id": "01p9D0000018bmVQAQ",
+                "Name": "SiteLoginControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 8,
+            "FullName": "SiteLoginControllerTest.testSiteLoginController"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240IkUAI"
+            },
+            "Id": "07M9D00000240IkUAI",
+            "QueueItemId": "7099D000000X1k3QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testRegistration",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmXQAQ"
+                },
+                "Id": "01p9D0000018bmXQAQ",
+                "Name": "SiteRegisterControllerTest",
+                "NamespacePrefix": null
+            },
+            "RunTime": 11,
+            "FullName": "SiteRegisterControllerTest.testRegistration"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JOUAY"
+            },
+            "Id": "07M9D00000240JOUAY",
+            "QueueItemId": "7099D000000X1k4QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetPagedPropertyList",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                },
+                "Id": "01p9D0000018bmxQAA",
+                "Name": "TestPropertyController",
+                "NamespacePrefix": null
+            },
+            "RunTime": 141,
+            "FullName": "TestPropertyController.testGetPagedPropertyList"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JPUAY"
+            },
+            "Id": "07M9D00000240JPUAY",
+            "QueueItemId": "7099D000000X1k4QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetPicturesNoResults",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                },
+                "Id": "01p9D0000018bmxQAA",
+                "Name": "TestPropertyController",
+                "NamespacePrefix": null
+            },
+            "RunTime": 130,
+            "FullName": "TestPropertyController.testGetPicturesNoResults"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JQUAY"
+            },
+            "Id": "07M9D00000240JQUAY",
+            "QueueItemId": "7099D000000X1k4QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetPicturesWithResults",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                },
+                "Id": "01p9D0000018bmxQAA",
+                "Name": "TestPropertyController",
+                "NamespacePrefix": null
+            },
+            "RunTime": 464,
+            "FullName": "TestPropertyController.testGetPicturesWithResults"
+        },
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v49.0/tooling/sobjects/ApexTestResult/07M9D00000240JRUAY"
+            },
+            "Id": "07M9D00000240JRUAY",
+            "QueueItemId": "7099D000000X1k4QAC",
+            "StackTrace": null,
+            "Message": null,
+            "AsyncApexJobId": "7079D00000EQVSDQA5",
+            "MethodName": "testGetPropertyList",
+            "Outcome": "Pass",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                },
+                "Id": "01p9D0000018bmxQAA",
+                "Name": "TestPropertyController",
+                "NamespacePrefix": null
+            },
+            "RunTime": 145,
+            "FullName": "TestPropertyController.testGetPropertyList"
+        }
+    ],
+    "coverage": {
+        "coverage": [
+            {
+                "id": "01p9D0000018bmUQAQ",
+                "name": "SiteLoginController",
+                "totalLines": 6,
+                "lines": {
+                    "5": 1,
+                    "6": 1,
+                    "8": 1,
+                    "9": 1,
+                    "10": 1,
+                    "13": 1
+                },
+                "totalCovered": 6,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmWQAQ",
+                "name": "SiteRegisterController",
+                "totalLines": 27,
+                "lines": {
+                    "7": 1,
+                    "9": 1,
+                    "12": 1,
+                    "13": 1,
+                    "14": 1,
+                    "15": 1,
+                    "16": 1,
+                    "18": 1,
+                    "19": 1,
+                    "22": 1,
+                    "24": 1,
+                    "25": 1,
+                    "26": 1,
+                    "27": 1,
+                    "29": 1,
+                    "30": 1,
+                    "31": 1,
+                    "32": 1,
+                    "34": 1,
+                    "37": 1,
+                    "38": 1,
+                    "39": 0,
+                    "40": 0,
+                    "43": 0,
+                    "44": 0,
+                    "45": 0,
+                    "48": 1
+                },
+                "totalCovered": 22,
+                "coveredPercent": 81.48148148148148
+            },
+            {
+                "id": "01p9D0000018bmYQAQ",
+                "name": "ChangePasswordController",
+                "totalLines": 6,
+                "lines": {
+                    "5": 1,
+                    "6": 1,
+                    "7": 1,
+                    "9": 1,
+                    "10": 1,
+                    "13": 1
+                },
+                "totalCovered": 6,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmaQAA",
+                "name": "ForgotPasswordController",
+                "totalLines": 9,
+                "lines": {
+                    "5": 1,
+                    "7": 1,
+                    "9": 1,
+                    "10": 1,
+                    "11": 1,
+                    "12": 1,
+                    "14": 1,
+                    "15": 0,
+                    "17": 1
+                },
+                "totalCovered": 8,
+                "coveredPercent": 88.88888888888889
+            },
+            {
+                "id": "01p9D0000018bmcQAA",
+                "name": "MyProfilePageController",
+                "totalLines": 24,
+                "lines": {
+                    "8": 1,
+                    "10": 1,
+                    "11": 1,
+                    "14": 1,
+                    "15": 1,
+                    "18": 1,
+                    "20": 1,
+                    "21": 0,
+                    "25": 1,
+                    "26": 1,
+                    "29": 1,
+                    "30": 1,
+                    "33": 1,
+                    "34": 1,
+                    "35": 1,
+                    "36": 1,
+                    "37": 0,
+                    "38": 0,
+                    "42": 1,
+                    "43": 1,
+                    "46": 1,
+                    "47": 1,
+                    "48": 1,
+                    "51": 1
+                },
+                "totalCovered": 21,
+                "coveredPercent": 87.5
+            },
+            {
+                "id": "01p9D0000018bmeQAA",
+                "name": "CommunitiesLoginController",
+                "totalLines": 5,
+                "lines": {
+                    "6": 1,
+                    "9": 1,
+                    "10": 1,
+                    "11": 1,
+                    "12": 1
+                },
+                "totalCovered": 5,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmgQAA",
+                "name": "CommunitiesLandingController",
+                "totalLines": 3,
+                "lines": {
+                    "7": 1,
+                    "8": 1,
+                    "11": 1
+                },
+                "totalCovered": 3,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmiQAA",
+                "name": "CommunitiesSelfRegController",
+                "totalLines": 42,
+                "lines": {
+                    "6": 1,
+                    "7": 1,
+                    "8": 1,
+                    "9": 1,
+                    "10": 1,
+                    "11": 1,
+                    "13": 1,
+                    "14": 1,
+                    "15": 1,
+                    "16": 0,
+                    "20": 1,
+                    "21": 1,
+                    "24": 1,
+                    "27": 1,
+                    "28": 1,
+                    "29": 1,
+                    "30": 1,
+                    "33": 1,
+                    "34": 1,
+                    "35": 1,
+                    "37": 1,
+                    "39": 1,
+                    "40": 1,
+                    "41": 1,
+                    "42": 1,
+                    "43": 1,
+                    "44": 1,
+                    "45": 1,
+                    "47": 1,
+                    "49": 1,
+                    "50": 1,
+                    "51": 0,
+                    "52": 0,
+                    "53": 0,
+                    "54": 0,
+                    "62": 1,
+                    "63": 0,
+                    "64": 0,
+                    "67": 0,
+                    "68": 0,
+                    "69": 0,
+                    "72": 1
+                },
+                "totalCovered": 32,
+                "coveredPercent": 76.19047619047619
+            },
+            {
+                "id": "01p9D0000018bmkQAA",
+                "name": "CommunitiesSelfRegConfirmController",
+                "totalLines": 1,
+                "lines": {
+                    "6": 1
+                },
+                "totalCovered": 1,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmoQAA",
+                "name": "LightningLoginFormController",
+                "totalLines": 33,
+                "lines": {
+                    "3": 1,
+                    "8": 1,
+                    "9": 1,
+                    "10": 1,
+                    "11": 1,
+                    "12": 0,
+                    "14": 1,
+                    "15": 1,
+                    "20": 1,
+                    "21": 1,
+                    "22": 1,
+                    "26": 1,
+                    "27": 1,
+                    "28": 1,
+                    "32": 1,
+                    "33": 1,
+                    "34": 1,
+                    "35": 0,
+                    "37": 1,
+                    "41": 0,
+                    "42": 0,
+                    "43": 0,
+                    "47": 1,
+                    "48": 1,
+                    "49": 1,
+                    "50": 1,
+                    "54": 0,
+                    "56": 0,
+                    "57": 0,
+                    "58": 0,
+                    "60": 0,
+                    "61": 0,
+                    "62": 0
+                },
+                "totalCovered": 21,
+                "coveredPercent": 64
+            },
+            {
+                "id": "01p9D0000018bmnQAA",
+                "name": "LightningForgotPasswordController",
+                "totalLines": 18,
+                "lines": {
+                    "3": 1,
+                    "8": 1,
+                    "9": 1,
+                    "10": 1,
+                    "11": 1,
+                    "12": 1,
+                    "13": 1,
+                    "15": 0,
+                    "16": 0,
+                    "18": 1,
+                    "19": 1,
+                    "24": 0,
+                    "26": 0,
+                    "27": 0,
+                    "28": 0,
+                    "30": 0,
+                    "31": 0,
+                    "32": 0
+                },
+                "totalCovered": 9,
+                "coveredPercent": 50
+            },
+            {
+                "id": "01p9D0000018bmmQAA",
+                "name": "LightningSelfRegisterController",
+                "totalLines": 77,
+                "lines": {
+                    "3": 1,
+                    "8": 1,
+                    "9": 1,
+                    "13": 1,
+                    "14": 1,
+                    "15": 1,
+                    "19": 1,
+                    "20": 1,
+                    "21": 0,
+                    "23": 1,
+                    "27": 1,
+                    "28": 1,
+                    "29": 1,
+                    "30": 1,
+                    "32": 1,
+                    "33": 1,
+                    "36": 1,
+                    "37": 1,
+                    "40": 1,
+                    "41": 1,
+                    "42": 1,
+                    "44": 1,
+                    "45": 1,
+                    "47": 1,
+                    "50": 1,
+                    "51": 0,
+                    "54": 1,
+                    "55": 1,
+                    "56": 1,
+                    "58": 1,
+                    "59": 1,
+                    "60": 1,
+                    "61": 1,
+                    "62": 1,
+                    "63": 1,
+                    "67": 1,
+                    "68": 1,
+                    "69": 1,
+                    "71": 1,
+                    "74": 1,
+                    "78": 1,
+                    "80": 1,
+                    "81": 1,
+                    "83": 1,
+                    "84": 1,
+                    "85": 1,
+                    "86": 1,
+                    "87": 0,
+                    "91": 1,
+                    "92": 1,
+                    "93": 0,
+                    "98": 1,
+                    "100": 1,
+                    "101": 1,
+                    "102": 1,
+                    "107": 1,
+                    "108": 1,
+                    "109": 1,
+                    "110": 1,
+                    "111": 0,
+                    "112": 0,
+                    "113": 0,
+                    "114": 0,
+                    "115": 0,
+                    "116": 0,
+                    "117": 0,
+                    "118": 0,
+                    "119": 0,
+                    "120": 0,
+                    "122": 1,
+                    "126": 0,
+                    "128": 0,
+                    "129": 0,
+                    "130": 0,
+                    "132": 0,
+                    "133": 0,
+                    "134": 0
+                },
+                "totalCovered": 56,
+                "coveredPercent": 73
+            },
+            {
+                "id": "01p9D0000018bmuQAA",
+                "name": "PagedResult",
+                "totalLines": 4,
+                "lines": {
+                    "3": 1,
+                    "6": 1,
+                    "9": 1,
+                    "12": 1
+                },
+                "totalCovered": 4,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmvQAA",
+                "name": "PropertyController",
+                "totalLines": 33,
+                "lines": {
+                    "3": 1,
+                    "4": 1,
+                    "5": 1,
+                    "8": 1,
+                    "16": 1,
+                    "17": 1,
+                    "18": 1,
+                    "19": 1,
+                    "20": 1,
+                    "21": 1,
+                    "23": 1,
+                    "24": 1,
+                    "25": 1,
+                    "26": 1,
+                    "27": 1,
+                    "28": 1,
+                    "29": 1,
+                    "32": 1,
+                    "34": 1,
+                    "36": 1,
+                    "39": 1,
+                    "40": 1,
+                    "42": 1,
+                    "46": 1,
+                    "47": 1,
+                    "51": 1,
+                    "56": 1,
+                    "57": 1,
+                    "60": 1,
+                    "62": 1,
+                    "63": 1,
+                    "66": 1,
+                    "69": 1
+                },
+                "totalCovered": 33,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmtQAA",
+                "name": "ContactController",
+                "totalLines": 5,
+                "lines": {
+                    "3": 1,
+                    "4": 1,
+                    "5": 1,
+                    "10": 1,
+                    "11": 1
+                },
+                "totalCovered": 5,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p9D0000018bmwQAA",
+                "name": "SampleDataController",
+                "totalLines": 34,
+                "lines": {
+                    "3": 1,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1,
+                    "7": 1,
+                    "9": 1,
+                    "10": 1,
+                    "11": 1,
+                    "14": 1,
+                    "15": 1,
+                    "20": 1,
+                    "21": 1,
+                    "22": 1,
+                    "23": 1,
+                    "25": 1,
+                    "28": 1,
+                    "29": 1,
+                    "34": 1,
+                    "35": 1,
+                    "36": 1,
+                    "37": 1,
+                    "39": 1,
+                    "40": 1,
+                    "43": 1,
+                    "44": 1,
+                    "49": 1,
+                    "50": 1,
+                    "51": 1,
+                    "52": 1,
+                    "54": 1,
+                    "57": 1,
+                    "58": 1,
+                    "59": 1,
+                    "60": 1
+                },
+                "totalCovered": 34,
+                "coveredPercent": 100
+            }
+        ],
+        "records": [
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6xQAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmVQAQ"
+                    },
+                    "Id": "01p9D0000018bmVQAQ",
+                    "Name": "SiteLoginControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        5,
+                        6,
+                        8,
+                        9,
+                        10,
+                        13
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testSiteLoginController",
+                "NumLinesCovered": 6,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmUQAQ"
+                    },
+                    "Id": "01p9D0000018bmUQAQ",
+                    "Name": "SiteLoginController"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6dQAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmXQAQ"
+                    },
+                    "Id": "01p9D0000018bmXQAQ",
+                    "Name": "SiteRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        7,
+                        9,
+                        12,
+                        13,
+                        14,
+                        15,
+                        16,
+                        18,
+                        19,
+                        22,
+                        24,
+                        25,
+                        26,
+                        27,
+                        29,
+                        30,
+                        31,
+                        32,
+                        34,
+                        37,
+                        38,
+                        48
+                    ],
+                    "uncoveredLines": [
+                        39,
+                        40,
+                        43,
+                        44,
+                        45
+                    ]
+                },
+                "TestMethodName": "testRegistration",
+                "NumLinesCovered": 22,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmWQAQ"
+                    },
+                    "Id": "01p9D0000018bmWQAQ",
+                    "Name": "SiteRegisterController"
+                },
+                "NumLinesUncovered": 5
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6iQAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmZQAQ"
+                    },
+                    "Id": "01p9D0000018bmZQAQ",
+                    "Name": "ChangePasswordControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        13
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testChangePasswordController",
+                "NumLinesCovered": 6,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmYQAQ"
+                    },
+                    "Id": "01p9D0000018bmYQAQ",
+                    "Name": "ChangePasswordController"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6OQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmbQAA"
+                    },
+                    "Id": "01p9D0000018bmbQAA",
+                    "Name": "ForgotPasswordControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        5,
+                        7,
+                        9,
+                        10,
+                        11,
+                        12,
+                        14,
+                        17
+                    ],
+                    "uncoveredLines": [
+                        15
+                    ]
+                },
+                "TestMethodName": "testForgotPasswordController",
+                "NumLinesCovered": 8,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmaQAA"
+                    },
+                    "Id": "01p9D0000018bmaQAA",
+                    "Name": "ForgotPasswordController"
+                },
+                "NumLinesUncovered": 1
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6nQAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmdQAA"
+                    },
+                    "Id": "01p9D0000018bmdQAA",
+                    "Name": "MyProfilePageControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        8,
+                        10,
+                        11,
+                        14,
+                        15,
+                        18,
+                        20,
+                        25,
+                        26,
+                        29,
+                        30,
+                        33,
+                        34,
+                        35,
+                        36,
+                        42,
+                        43,
+                        46,
+                        47,
+                        48,
+                        51
+                    ],
+                    "uncoveredLines": [
+                        21,
+                        37,
+                        38
+                    ]
+                },
+                "TestMethodName": "testSave",
+                "NumLinesCovered": 21,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmcQAA"
+                    },
+                    "Id": "01p9D0000018bmcQAA",
+                    "Name": "MyProfilePageController"
+                },
+                "NumLinesUncovered": 3
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6EQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmfQAA"
+                    },
+                    "Id": "01p9D0000018bmfQAA",
+                    "Name": "CommunitiesLoginControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        6,
+                        9,
+                        10,
+                        11,
+                        12
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testCommunitiesLoginController",
+                "NumLinesCovered": 5,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmeQAA"
+                    },
+                    "Id": "01p9D0000018bmeQAA",
+                    "Name": "CommunitiesLoginController"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6YQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmhQAA"
+                    },
+                    "Id": "01p9D0000018bmhQAA",
+                    "Name": "CommunitiesLandingControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        7,
+                        8,
+                        11
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testCommunitiesLandingController",
+                "NumLinesCovered": 3,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmgQAA"
+                    },
+                    "Id": "01p9D0000018bmgQAA",
+                    "Name": "CommunitiesLandingController"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6TQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmjQAA"
+                    },
+                    "Id": "01p9D0000018bmjQAA",
+                    "Name": "CommunitiesSelfRegControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        6,
+                        7,
+                        8,
+                        9,
+                        10,
+                        11,
+                        13,
+                        14,
+                        15,
+                        20,
+                        21,
+                        24,
+                        27,
+                        28,
+                        29,
+                        30,
+                        33,
+                        34,
+                        35,
+                        37,
+                        39,
+                        40,
+                        41,
+                        42,
+                        43,
+                        44,
+                        45,
+                        47,
+                        49,
+                        50,
+                        62,
+                        72
+                    ],
+                    "uncoveredLines": [
+                        16,
+                        51,
+                        52,
+                        53,
+                        54,
+                        63,
+                        64,
+                        67,
+                        68,
+                        69
+                    ]
+                },
+                "TestMethodName": "testCommunitiesSelfRegController",
+                "NumLinesCovered": 32,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmiQAA"
+                    },
+                    "Id": "01p9D0000018bmiQAA",
+                    "Name": "CommunitiesSelfRegController"
+                },
+                "NumLinesUncovered": 10
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6JQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmlQAA"
+                    },
+                    "Id": "01p9D0000018bmlQAA",
+                    "Name": "CommunitiesSelfRegConfirmControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        6
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testCommunitiesSelfRegConfirmController",
+                "NumLinesCovered": 1,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmkQAA"
+                    },
+                    "Id": "01p9D0000018bmkQAA",
+                    "Name": "CommunitiesSelfRegConfirmController"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7HQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                    },
+                    "Id": "01p9D0000018bmpQAA",
+                    "Name": "LightningLoginFormControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        9,
+                        10,
+                        11,
+                        14,
+                        15,
+                        20,
+                        26,
+                        32,
+                        47
+                    ],
+                    "uncoveredLines": [
+                        12,
+                        21,
+                        22,
+                        27,
+                        28,
+                        33,
+                        34,
+                        35,
+                        37,
+                        41,
+                        42,
+                        43,
+                        48,
+                        49,
+                        50,
+                        54,
+                        56,
+                        57,
+                        58,
+                        60,
+                        61,
+                        62
+                    ]
+                },
+                "TestMethodName": "testLoginWithInvalidCredentials",
+                "NumLinesCovered": 11,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmoQAA"
+                    },
+                    "Id": "01p9D0000018bmoQAA",
+                    "Name": "LightningLoginFormController"
+                },
+                "NumLinesUncovered": 22
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7GQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                    },
+                    "Id": "01p9D0000018bmpQAA",
+                    "Name": "LightningLoginFormControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        32,
+                        33,
+                        34,
+                        37,
+                        47,
+                        48,
+                        49,
+                        50
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        14,
+                        15,
+                        20,
+                        21,
+                        22,
+                        26,
+                        27,
+                        28,
+                        35,
+                        41,
+                        42,
+                        43,
+                        54,
+                        56,
+                        57,
+                        58,
+                        60,
+                        61,
+                        62
+                    ]
+                },
+                "TestMethodName": "testGetSelfRegistrationURL",
+                "NumLinesCovered": 9,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmoQAA"
+                    },
+                    "Id": "01p9D0000018bmoQAA",
+                    "Name": "LightningLoginFormController"
+                },
+                "NumLinesUncovered": 24
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7IQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                    },
+                    "Id": "01p9D0000018bmpQAA",
+                    "Name": "LightningLoginFormControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        14,
+                        15,
+                        20,
+                        21,
+                        22,
+                        26,
+                        27,
+                        28,
+                        32,
+                        33,
+                        34,
+                        35,
+                        37,
+                        41,
+                        42,
+                        43,
+                        47,
+                        48,
+                        49,
+                        50,
+                        54,
+                        56,
+                        57,
+                        58,
+                        60,
+                        61,
+                        62
+                    ]
+                },
+                "TestMethodName": "LightningLoginFormControllerInstantiation",
+                "NumLinesCovered": 1,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmoQAA"
+                    },
+                    "Id": "01p9D0000018bmoQAA",
+                    "Name": "LightningLoginFormController"
+                },
+                "NumLinesUncovered": 32
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7JQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                    },
+                    "Id": "01p9D0000018bmpQAA",
+                    "Name": "LightningLoginFormControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        26,
+                        27,
+                        28,
+                        32,
+                        47,
+                        48,
+                        49,
+                        50
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        14,
+                        15,
+                        20,
+                        21,
+                        22,
+                        33,
+                        34,
+                        35,
+                        37,
+                        41,
+                        42,
+                        43,
+                        54,
+                        56,
+                        57,
+                        58,
+                        60,
+                        61,
+                        62
+                    ]
+                },
+                "TestMethodName": "testIsSelfRegistrationEnabled",
+                "NumLinesCovered": 9,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmoQAA"
+                    },
+                    "Id": "01p9D0000018bmoQAA",
+                    "Name": "LightningLoginFormController"
+                },
+                "NumLinesUncovered": 24
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7KQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                    },
+                    "Id": "01p9D0000018bmpQAA",
+                    "Name": "LightningLoginFormControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        47,
+                        48,
+                        49,
+                        50
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        14,
+                        15,
+                        20,
+                        21,
+                        22,
+                        26,
+                        27,
+                        28,
+                        32,
+                        33,
+                        34,
+                        35,
+                        37,
+                        41,
+                        42,
+                        43,
+                        54,
+                        56,
+                        57,
+                        58,
+                        60,
+                        61,
+                        62
+                    ]
+                },
+                "TestMethodName": "testAuthConfig",
+                "NumLinesCovered": 5,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmoQAA"
+                    },
+                    "Id": "01p9D0000018bmoQAA",
+                    "Name": "LightningLoginFormController"
+                },
+                "NumLinesUncovered": 28
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7LQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmpQAA"
+                    },
+                    "Id": "01p9D0000018bmpQAA",
+                    "Name": "LightningLoginFormControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        20,
+                        21,
+                        22,
+                        26,
+                        32,
+                        47,
+                        48,
+                        49,
+                        50
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        14,
+                        15,
+                        27,
+                        28,
+                        33,
+                        34,
+                        35,
+                        37,
+                        41,
+                        42,
+                        43,
+                        54,
+                        56,
+                        57,
+                        58,
+                        60,
+                        61,
+                        62
+                    ]
+                },
+                "TestMethodName": "testIsUsernamePasswordEnabled",
+                "NumLinesCovered": 10,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmoQAA"
+                    },
+                    "Id": "01p9D0000018bmoQAA",
+                    "Name": "LightningLoginFormController"
+                },
+                "NumLinesUncovered": 23
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF72QAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmqQAA"
+                    },
+                    "Id": "01p9D0000018bmqQAA",
+                    "Name": "LightningForgotPasswordControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13
+                    ],
+                    "uncoveredLines": [
+                        15,
+                        16,
+                        18,
+                        19,
+                        24,
+                        26,
+                        27,
+                        28,
+                        30,
+                        31,
+                        32
+                    ]
+                },
+                "TestMethodName": "testLightningForgotPasswordControllerInvalidUserName",
+                "NumLinesCovered": 7,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmnQAA"
+                    },
+                    "Id": "01p9D0000018bmnQAA",
+                    "Name": "LightningForgotPasswordController"
+                },
+                "NumLinesUncovered": 11
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF73QAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmqQAA"
+                    },
+                    "Id": "01p9D0000018bmqQAA",
+                    "Name": "LightningForgotPasswordControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        9,
+                        10,
+                        11,
+                        18,
+                        19
+                    ],
+                    "uncoveredLines": [
+                        12,
+                        13,
+                        15,
+                        16,
+                        24,
+                        26,
+                        27,
+                        28,
+                        30,
+                        31,
+                        32
+                    ]
+                },
+                "TestMethodName": "testLightningForgotPasswordControllerWithNullCheckEmailRef",
+                "NumLinesCovered": 7,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmnQAA"
+                    },
+                    "Id": "01p9D0000018bmnQAA",
+                    "Name": "LightningForgotPasswordController"
+                },
+                "NumLinesUncovered": 11
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF74QAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmqQAA"
+                    },
+                    "Id": "01p9D0000018bmqQAA",
+                    "Name": "LightningForgotPasswordControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        10,
+                        11,
+                        12,
+                        13,
+                        15,
+                        16,
+                        18,
+                        19,
+                        24,
+                        26,
+                        27,
+                        28,
+                        30,
+                        31,
+                        32
+                    ]
+                },
+                "TestMethodName": "LightningForgotPasswordControllerInstantiation",
+                "NumLinesCovered": 1,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmnQAA"
+                    },
+                    "Id": "01p9D0000018bmnQAA",
+                    "Name": "LightningForgotPasswordController"
+                },
+                "NumLinesUncovered": 17
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF78QAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        9,
+                        27,
+                        107
+                    ],
+                    "uncoveredLines": [
+                        13,
+                        14,
+                        15,
+                        19,
+                        20,
+                        21,
+                        23,
+                        28,
+                        29,
+                        30,
+                        32,
+                        33,
+                        36,
+                        37,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        51,
+                        54,
+                        55,
+                        56,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        67,
+                        68,
+                        69,
+                        71,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        91,
+                        92,
+                        93,
+                        98,
+                        100,
+                        101,
+                        102,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        122,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testIsValidPassword",
+                "NumLinesCovered": 5,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 72
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF79QAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        27,
+                        28,
+                        29,
+                        30,
+                        32,
+                        36,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        54,
+                        55,
+                        56,
+                        58,
+                        67,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        91,
+                        92,
+                        98,
+                        107
+                    ],
+                    "uncoveredLines": [
+                        9,
+                        13,
+                        14,
+                        15,
+                        19,
+                        20,
+                        21,
+                        23,
+                        33,
+                        37,
+                        51,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        68,
+                        69,
+                        71,
+                        85,
+                        86,
+                        87,
+                        93,
+                        100,
+                        101,
+                        102,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        122,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testSelfRegisterWithCreatedAccount",
+                "NumLinesCovered": 30,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 47
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF77QAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        27,
+                        107,
+                        108,
+                        109,
+                        110,
+                        122
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        13,
+                        14,
+                        15,
+                        19,
+                        20,
+                        21,
+                        23,
+                        28,
+                        29,
+                        30,
+                        32,
+                        33,
+                        36,
+                        37,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        51,
+                        54,
+                        55,
+                        56,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        67,
+                        68,
+                        69,
+                        71,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        91,
+                        92,
+                        93,
+                        98,
+                        100,
+                        101,
+                        102,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testGetNonEmptyExtraFields",
+                "NumLinesCovered": 7,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 70
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7AQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        13,
+                        14,
+                        15,
+                        19,
+                        27,
+                        107
+                    ],
+                    "uncoveredLines": [
+                        9,
+                        20,
+                        21,
+                        23,
+                        28,
+                        29,
+                        30,
+                        32,
+                        33,
+                        36,
+                        37,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        51,
+                        54,
+                        55,
+                        56,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        67,
+                        68,
+                        69,
+                        71,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        91,
+                        92,
+                        93,
+                        98,
+                        100,
+                        101,
+                        102,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        122,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testSiteAsContainerEnabled",
+                "NumLinesCovered": 8,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 69
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7BQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        9,
+                        19,
+                        27,
+                        28,
+                        29,
+                        30,
+                        32,
+                        33,
+                        36,
+                        37,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        54,
+                        55,
+                        56,
+                        58,
+                        67,
+                        68,
+                        69,
+                        107
+                    ],
+                    "uncoveredLines": [
+                        13,
+                        14,
+                        15,
+                        20,
+                        21,
+                        23,
+                        51,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        71,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        91,
+                        92,
+                        93,
+                        98,
+                        100,
+                        101,
+                        102,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        122,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testSelfRegistration",
+                "NumLinesCovered": 27,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 50
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7CQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        13,
+                        14,
+                        15,
+                        19,
+                        20,
+                        21,
+                        23,
+                        27,
+                        28,
+                        29,
+                        30,
+                        32,
+                        33,
+                        36,
+                        37,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        51,
+                        54,
+                        55,
+                        56,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        67,
+                        68,
+                        69,
+                        71,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        91,
+                        92,
+                        93,
+                        98,
+                        100,
+                        101,
+                        102,
+                        107,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        122,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "LightningSelfRegisterControllerInstantiation",
+                "NumLinesCovered": 1,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 76
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7DQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        8,
+                        9,
+                        19,
+                        20,
+                        23,
+                        27,
+                        28,
+                        29,
+                        30,
+                        32,
+                        36,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        54,
+                        55,
+                        56,
+                        58,
+                        67,
+                        68,
+                        71,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        98,
+                        107
+                    ],
+                    "uncoveredLines": [
+                        13,
+                        14,
+                        15,
+                        21,
+                        33,
+                        37,
+                        51,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        69,
+                        74,
+                        87,
+                        91,
+                        92,
+                        93,
+                        100,
+                        101,
+                        102,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        122,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testSelfRegisterWithProperCredentials",
+                "NumLinesCovered": 35,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 42
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7EQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        27,
+                        107,
+                        108,
+                        109,
+                        110,
+                        122
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        13,
+                        14,
+                        15,
+                        19,
+                        20,
+                        21,
+                        23,
+                        28,
+                        29,
+                        30,
+                        32,
+                        33,
+                        36,
+                        37,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        51,
+                        54,
+                        55,
+                        56,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        67,
+                        68,
+                        69,
+                        71,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        91,
+                        92,
+                        93,
+                        98,
+                        100,
+                        101,
+                        102,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testGetNullExtraFields",
+                "NumLinesCovered": 7,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 70
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7FQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmrQAA"
+                    },
+                    "Id": "01p9D0000018bmrQAA",
+                    "Name": "LightningSelfRegisterControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        27,
+                        28,
+                        29,
+                        30,
+                        32,
+                        36,
+                        40,
+                        41,
+                        42,
+                        44,
+                        45,
+                        47,
+                        50,
+                        54,
+                        55,
+                        56,
+                        58,
+                        59,
+                        60,
+                        61,
+                        62,
+                        63,
+                        100,
+                        101,
+                        102
+                    ],
+                    "uncoveredLines": [
+                        8,
+                        9,
+                        13,
+                        14,
+                        15,
+                        19,
+                        20,
+                        21,
+                        23,
+                        33,
+                        37,
+                        51,
+                        67,
+                        68,
+                        69,
+                        71,
+                        74,
+                        78,
+                        80,
+                        81,
+                        83,
+                        84,
+                        85,
+                        86,
+                        87,
+                        91,
+                        92,
+                        93,
+                        98,
+                        107,
+                        108,
+                        109,
+                        110,
+                        111,
+                        112,
+                        113,
+                        114,
+                        115,
+                        116,
+                        117,
+                        118,
+                        119,
+                        120,
+                        122,
+                        126,
+                        128,
+                        129,
+                        130,
+                        132,
+                        133,
+                        134
+                    ]
+                },
+                "TestMethodName": "testGetExtraFieldsInSelfRegistration",
+                "NumLinesCovered": 26,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmmQAA"
+                    },
+                    "Id": "01p9D0000018bmmQAA",
+                    "Name": "LightningSelfRegisterController"
+                },
+                "NumLinesUncovered": 51
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7MQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testGetPagedPropertyList",
+                "NumLinesCovered": 4,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmuQAA"
+                    },
+                    "Id": "01p9D0000018bmuQAA",
+                    "Name": "PagedResult"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7NQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        4,
+                        5,
+                        8,
+                        16,
+                        46
+                    ],
+                    "uncoveredLines": [
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        32,
+                        34,
+                        36,
+                        39,
+                        40,
+                        42,
+                        47,
+                        51,
+                        56,
+                        57,
+                        60,
+                        62,
+                        63,
+                        66,
+                        69
+                    ]
+                },
+                "TestMethodName": "testGetPropertyList",
+                "NumLinesCovered": 6,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmvQAA"
+                    },
+                    "Id": "01p9D0000018bmvQAA",
+                    "Name": "PropertyController"
+                },
+                "NumLinesUncovered": 27
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7OQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        16,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        32,
+                        34,
+                        36,
+                        39,
+                        40,
+                        42
+                    ],
+                    "uncoveredLines": [
+                        3,
+                        4,
+                        5,
+                        8,
+                        46,
+                        47,
+                        51,
+                        56,
+                        57,
+                        60,
+                        62,
+                        63,
+                        66,
+                        69
+                    ]
+                },
+                "TestMethodName": "testGetPagedPropertyList",
+                "NumLinesCovered": 19,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmvQAA"
+                    },
+                    "Id": "01p9D0000018bmvQAA",
+                    "Name": "PropertyController"
+                },
+                "NumLinesUncovered": 14
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7PQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testGetPicturesNoResults",
+                "NumLinesCovered": 4,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmuQAA"
+                    },
+                    "Id": "01p9D0000018bmuQAA",
+                    "Name": "PagedResult"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7QQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testGetPropertyList",
+                "NumLinesCovered": 4,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmuQAA"
+                    },
+                    "Id": "01p9D0000018bmuQAA",
+                    "Name": "PagedResult"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7RQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        16,
+                        46,
+                        47,
+                        51,
+                        56,
+                        57
+                    ],
+                    "uncoveredLines": [
+                        3,
+                        4,
+                        5,
+                        8,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        32,
+                        34,
+                        36,
+                        39,
+                        40,
+                        42,
+                        60,
+                        62,
+                        63,
+                        66,
+                        69
+                    ]
+                },
+                "TestMethodName": "testGetPicturesNoResults",
+                "NumLinesCovered": 6,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmvQAA"
+                    },
+                    "Id": "01p9D0000018bmvQAA",
+                    "Name": "PropertyController"
+                },
+                "NumLinesUncovered": 27
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7SQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        16,
+                        46,
+                        47,
+                        51,
+                        56,
+                        60,
+                        62,
+                        63,
+                        66,
+                        69
+                    ],
+                    "uncoveredLines": [
+                        3,
+                        4,
+                        5,
+                        8,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        23,
+                        24,
+                        25,
+                        26,
+                        27,
+                        28,
+                        29,
+                        32,
+                        34,
+                        36,
+                        39,
+                        40,
+                        42,
+                        57
+                    ]
+                },
+                "TestMethodName": "testGetPicturesWithResults",
+                "NumLinesCovered": 10,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmvQAA"
+                    },
+                    "Id": "01p9D0000018bmvQAA",
+                    "Name": "PropertyController"
+                },
+                "NumLinesUncovered": 23
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF7TQAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmxQAA"
+                    },
+                    "Id": "01p9D0000018bmxQAA",
+                    "Name": "TestPropertyController"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        6,
+                        9,
+                        12
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "testGetPicturesWithResults",
+                "NumLinesCovered": 4,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmuQAA"
+                    },
+                    "Id": "01p9D0000018bmuQAA",
+                    "Name": "PagedResult"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6sQAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018buZQAQ"
+                    },
+                    "Id": "01p9D0000018buZQAQ",
+                    "Name": "ContactControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        4,
+                        5,
+                        10,
+                        11
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "validate_ContactController",
+                "NumLinesCovered": 5,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmtQAA"
+                    },
+                    "Id": "01p9D0000018bmtQAA",
+                    "Name": "ContactController"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v49.0/tooling/sobjects/ApexCodeCoverage/7149D00000GrF6tQAF"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018buZQAQ"
+                    },
+                    "Id": "01p9D0000018buZQAQ",
+                    "Name": "ContactControllerTest"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        9,
+                        10,
+                        11,
+                        14,
+                        15,
+                        20,
+                        21,
+                        22,
+                        23,
+                        25,
+                        28,
+                        29,
+                        34,
+                        35,
+                        36,
+                        37,
+                        39,
+                        40,
+                        43,
+                        44,
+                        49,
+                        50,
+                        51,
+                        52,
+                        54,
+                        57,
+                        58,
+                        59,
+                        60
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "validate_ContactController",
+                "NumLinesCovered": 34,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v49.0/tooling/sobjects/ApexClass/01p9D0000018bmwQAA"
+                    },
+                    "Id": "01p9D0000018bmwQAA",
+                    "Name": "SampleDataController"
+                },
+                "NumLinesUncovered": 0
+            }
+        ],
+        "summary": {
+            "totalLines": 327,
+            "coveredLines": 266,
+            "testRunCoverage": "81%",
+            "orgWideCoverage": "81%"
+        }
+    }
+}

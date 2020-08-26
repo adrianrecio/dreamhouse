@@ -1,0 +1,87 @@
+=== [94mTest Reports[39m
+FORMAT  FILE
+──────  ─────────────────────────────────────────────────
+txt     test-result\test-result.txt
+txt     test-result\test-run-id.txt
+junit   test-result\test-result-7079D00000EQVSD-junit.xml
+json    test-result\test-result-7079D00000EQVSD.json
+json    test-result\test-result-codecoverage.json
+
+=== [94mApex Code Coverage[39m
+ID                  NAME                                 % COVERED           UNCOVERED LINES
+──────────────────  ───────────────────────────────────  ──────────────────  ───────────────────────────────────────────────────────────────────────────────
+01p9D0000018bmUQAQ  SiteLoginController                  [32m100%[39m
+01p9D0000018bmWQAQ  SiteRegisterController               [32m81.48148148148148%[39m  [31m39,40,43,44,45[39m
+01p9D0000018bmYQAQ  ChangePasswordController             [32m100%[39m
+01p9D0000018bmaQAA  ForgotPasswordController             [32m88.88888888888889%[39m  [31m15[39m
+01p9D0000018bmcQAA  MyProfilePageController              [32m87.5%[39m               [31m21,37,38[39m
+01p9D0000018bmeQAA  CommunitiesLoginController           [32m100%[39m
+01p9D0000018bmgQAA  CommunitiesLandingController         [32m100%[39m
+01p9D0000018bmiQAA  CommunitiesSelfRegController         [32m76.19047619047619%[39m  [31m16,51,52,53,54,63,64,67,68,69[39m
+01p9D0000018bmkQAA  CommunitiesSelfRegConfirmController  [32m100%[39m
+01p9D0000018bmoQAA  LightningLoginFormController         [31m64%[39m                 [31m12,35,41,42,43,54,56,57,58,60,61,62[39m
+01p9D0000018bmnQAA  LightningForgotPasswordController    [31m50%[39m                 [31m15,16,24,26,27,28,30,31,32[39m
+01p9D0000018bmmQAA  LightningSelfRegisterController      [31m73%[39m                 [31m21,51,87,93,111,112,113,114,115,116,117,118,119,120,126,128,129,130,132,133,134[39m
+01p9D0000018bmuQAA  PagedResult                          [32m100%[39m
+01p9D0000018bmvQAA  PropertyController                   [32m100%[39m
+01p9D0000018bmtQAA  ContactController                    [32m100%[39m
+01p9D0000018bmwQAA  SampleDataController                 [32m100%[39m
+
+=== [94mTest Results[39m
+TEST NAME                                                                                         OUTCOME  MESSAGE  RUNTIME (MS)
+────────────────────────────────────────────────────────────────────────────────────────────────  ───────  ───────  ────────────
+ChangePasswordControllerTest.testChangePasswordController                                         [32mPass[39m              10
+CommunitiesLandingControllerTest.testCommunitiesLandingController                                 [32mPass[39m              14
+CommunitiesLoginControllerTest.testCommunitiesLoginController                                     [32mPass[39m              10
+CommunitiesSelfRegConfirmControllerTest.testCommunitiesSelfRegConfirmController                   [32mPass[39m              9
+CommunitiesSelfRegControllerTest.testCommunitiesSelfRegController                                 [32mPass[39m              16
+ContactControllerTest.validate_ContactController                                                  [32mPass[39m              406
+ForgotPasswordControllerTest.testForgotPasswordController                                         [32mPass[39m              9
+LightningForgotPasswordControllerTest.LightningForgotPasswordControllerInstantiation              [32mPass[39m              9
+LightningForgotPasswordControllerTest.testLightningForgotPasswordControllerInvalidUserName        [32mPass[39m              5
+LightningForgotPasswordControllerTest.testLightningForgotPasswordControllerWithNullCheckEmailRef  [32mPass[39m              5
+LightningLoginFormControllerTest.LightningLoginFormControllerInstantiation                        [32mPass[39m              7
+LightningLoginFormControllerTest.testAuthConfig                                                   [32mPass[39m              9
+LightningLoginFormControllerTest.testGetSelfRegistrationURL                                       [32mPass[39m              7
+LightningLoginFormControllerTest.testIsSelfRegistrationEnabled                                    [32mPass[39m              6
+LightningLoginFormControllerTest.testIsUsernamePasswordEnabled                                    [32mPass[39m              14
+LightningLoginFormControllerTest.testLoginWithInvalidCredentials                                  [32mPass[39m              5
+LightningSelfRegisterControllerTest.LightningSelfRegisterControllerInstantiation                  [32mPass[39m              11
+LightningSelfRegisterControllerTest.testGetExtraFieldsInSelfRegistration                          [32mPass[39m              17
+LightningSelfRegisterControllerTest.testGetNonEmptyExtraFields                                    [32mPass[39m              6
+LightningSelfRegisterControllerTest.testGetNullExtraFields                                        [32mPass[39m              5
+LightningSelfRegisterControllerTest.testIsValidPassword                                           [32mPass[39m              4
+LightningSelfRegisterControllerTest.testSelfRegisterWithCreatedAccount                            [32mPass[39m              114
+LightningSelfRegisterControllerTest.testSelfRegisterWithProperCredentials                         [32mPass[39m              5
+LightningSelfRegisterControllerTest.testSelfRegistration                                          [32mPass[39m              6
+LightningSelfRegisterControllerTest.testSiteAsContainerEnabled                                    [32mPass[39m              11
+MyProfilePageControllerTest.testSave                                                              [32mPass[39m              146
+SiteLoginControllerTest.testSiteLoginController                                                   [32mPass[39m              8
+SiteRegisterControllerTest.testRegistration                                                       [32mPass[39m              11
+TestPropertyController.testGetPagedPropertyList                                                   [32mPass[39m              141
+TestPropertyController.testGetPicturesNoResults                                                   [32mPass[39m              130
+TestPropertyController.testGetPicturesWithResults                                                 [32mPass[39m              464
+TestPropertyController.testGetPropertyList                                                        [32mPass[39m              145
+
+=== [94mTest Summary[39m
+NAME                 VALUE
+───────────────────  ─────────────────────────────────────────────────────────
+Outcome              Passed
+Tests Ran            32
+Passing              32
+Failing              0
+Skipped              0
+Pass Rate            100%
+Fail Rate            0%
+Test Start Time      Aug 26, 2020 3:58 PM
+Test Execution Time  1765 ms
+Test Total Time      1765 ms
+Command Time         12274 ms
+Hostname             https://agility-flow-8136-dev-ed.cs76.my.salesforce.com/
+Org Id               00D9D0000000knfUAA
+Username             test-kirkobdpgzf9@example.com
+Test Run Id          7079D00000EQVSD
+User Id              0059D000001ZDavQAG
+Test Run Coverage    81%
+Org Wide Coverage    81%
+
