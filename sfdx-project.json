@@ -23,6 +23,9 @@
             "versionNumber": "0.1.0.NEXT"
         },
         {
+            "path": "unpackaged"
+        },
+        {
             "path": "dreamhouse-data-model",
             "package": "dreamhouse-data-model",
             "versionName": "ver 0.1",
